@@ -23,4 +23,4 @@ de las presas.
 
 ## Fase 3: Simulación estocástica de un proceso presa-depredador
 
-El código se encuentra disponible en [Fase_3]
+El código se encuentra disponible en [Fase_3](Fase_3.ipynb)
