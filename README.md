@@ -11,7 +11,7 @@ $d'(t)=-\beta_1d(t)+\beta_2p(t)d(t)$
 
 Calcular el número promedio de depredadores y presas.
 
-Explicación de solución %Agregar Link
+[Explicación de solución](https://youtu.be/XsF5nrLV-3c)
 
 ## Fase 2: aplicación a un caso real, modificaciones de las ecuaciones y solución numérica
 
@@ -19,8 +19,8 @@ Discretización para resolver el sistema con un método $O(h^2)$ de las ecuacion
 aproximación de primer orden (método de Eulero), tomando en cuenta una limitación en el crecimiento 
 de las presas.
 
-Explicación de solución %Agregar Link
+[Explicación de solución](https://youtu.be/2v9JRVpImhU)
 
 ## Fase 3: Simulación estocástica de un proceso presa-depredador
 
-El código se encuentra disponible en Fase_3 %agregar link
+El código se encuentra disponible en [Fase_3]
